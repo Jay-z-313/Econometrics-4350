@@ -5,11 +5,11 @@ nrow(bwght)
 summary(bwght)
 sum(bwght$male)
 sum(bwght)
-sum("cigs"). what we did wrong here was forgetting $ purpose cigs exits inside 
-of the variable bwght
+sum("cigs"). 
 sum(bwght$cigs >0)
 mean(bwght$cigs)
 mean(bwght$cigs [bwght$cigs > 0])
 mean(bwght$fatheduc, na.rm = TRUE)
 mean(bwght$faminc)
 sd(bwght$faminc)
+git remote add origin https://github.com/Jay-z-313/Econometrics-4350.git
