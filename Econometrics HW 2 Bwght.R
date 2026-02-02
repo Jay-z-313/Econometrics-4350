@@ -1,0 +1,15 @@
+data("bwght")
+head(bwght)
+str(bwght)
+nrow(bwght)
+summary(bwght)
+sum(bwght$male)
+sum(bwght)
+sum("cigs"). what we did wrong here was forgetting $ purpose cigs exits inside 
+of the variable bwght
+sum(bwght$cigs >0)
+mean(bwght$cigs)
+mean(bwght$cigs [bwght$cigs > 0])
+mean(bwght$fatheduc, na.rm = TRUE)
+mean(bwght$faminc)
+sd(bwght$faminc)
